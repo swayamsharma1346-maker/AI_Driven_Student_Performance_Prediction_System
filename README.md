@@ -215,9 +215,10 @@ Predicted Performance Level
 
 along with prediction probabilities for:
 
-At Risk
+low Performer
 Average
 High Performer
+
 💾 Model Saving
 
 The trained Machine Learning pipeline is saved using Joblib.
@@ -255,6 +256,8 @@ Student Performance Visualization Dashboard
 REST API for Predictions
 Integration with Real College/Student Databases
 Automated Academic Recommendations
+
+
 📁 Project Structure
 AI-Driven-Student-Performance-Prediction/
 │
@@ -262,6 +265,8 @@ AI-Driven-Student-Performance-Prediction/
 ├── student_performance_dataset.csv
 ├── student_performance_prediction_model.joblib
 └── README.md
+
+
 ▶️ How to Run the Project
 Step 1: Clone the Repository
 git clone YOUR_GITHUB_REPOSITORY_URL
@@ -290,6 +295,8 @@ Compare model performance.
 Evaluate the best model.
 Predict a new student's performance.
 Save the trained model.
+
+
 📌 Conclusion
 
 The AI-Driven Student Performance Prediction System demonstrates how Artificial Intelligence and Machine Learning can be applied to educational analytics.
